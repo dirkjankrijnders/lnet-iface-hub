@@ -1,0 +1,269 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-08 BZR 5647)-product   date = 2015 May 20, Wednesday 17:15:32
+
+BeginCmp
+TimeStamp = /555CA352;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:C_Rect_L7_W6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CA38C;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:C_Rect_L7_W6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CAB57;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /55503DF4;
+Reference = J1;
+ValeurCmp = RJ12;
+IdModule  = Connectors:RJ12_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /55503E32;
+Reference = J2;
+ValeurCmp = RJ12;
+IdModule  = Connectors:RJ12_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551FCC2;
+Reference = J3;
+ValeurCmp = RJ12;
+IdModule  = Connectors:RJ12_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551FCC8;
+Reference = J4;
+ValeurCmp = RJ12;
+IdModule  = Connectors:RJ12_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /55524703;
+Reference = J5;
+ValeurCmp = RJ12;
+IdModule  = Connectors:RJ12_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /55524709;
+Reference = J6;
+ValeurCmp = RJ12;
+IdModule  = Connectors:RJ12_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /555C2BD5;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CB060;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550475B;
+Reference = P1;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /555358D2;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5553595E;
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55535916;
+Reference = P4;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5553599B;
+Reference = P5;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55536CE2;
+Reference = P6;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55536CEE;
+Reference = P7;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55536CE8;
+Reference = P8;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55536CF4;
+Reference = P9;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /555C2161;
+Reference = P10;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55503FB7;
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = Housings_TO-92:TO-92_Inline_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /555C2742;
+Reference = R1;
+ValeurCmp = 82R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55504135;
+Reference = R2;
+ValeurCmp = 47k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550415C;
+Reference = R3;
+ValeurCmp = 150k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55504199;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /555041D0;
+Reference = R5;
+ValeurCmp = 22k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55504594;
+Reference = R6;
+ValeurCmp = 220k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55504029;
+Reference = R7;
+ValeurCmp = 4k7;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /555C25DE;
+Reference = U1;
+ValeurCmp = LM317AT;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550422C;
+Reference = U2;
+ValeurCmp = LM311N;
+IdModule  = Housings_DIP:DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /555243D1;
+Reference = U3;
+ValeurCmp = M3_Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CA30A;
+Reference = U4;
+ValeurCmp = LM7805CT;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /55524400;
+Reference = U5;
+ValeurCmp = M3_Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5552442C;
+Reference = U8;
+ValeurCmp = M3_Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55524459;
+Reference = U9;
+ValeurCmp = M3_Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /555244E7;
+Reference = U10;
+ValeurCmp = M3_Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55524518;
+Reference = U11;
+ValeurCmp = M3_Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+EndListe

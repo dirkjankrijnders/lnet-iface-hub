@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-08 BZR 5647)-product   date = 2015 May 13, Wednesday 07:22:56
+
+BeginCmp
+TimeStamp = /5552E03E;
+Reference = CO1;
+ValeurCmp = rj12_panel_cutout;
+IdModule  = Connectors:RJ12_Panel_cutout;
+EndCmp
+
+BeginCmp
+TimeStamp = /5552E05D;
+Reference = CO2;
+ValeurCmp = rj12_panel_cutout;
+IdModule  = Connectors:RJ12_Panel_cutout;
+EndCmp
+
+EndListe

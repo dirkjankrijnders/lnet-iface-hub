@@ -1,0 +1,40 @@
+(export (version D)
+  (design
+    (source /Users/dirkjan/Projects/Own/Loconet/loconet_frontpanel.sch)
+    (date "2015 May 13, Wednesday 07:22:46")
+    (tool "Eeschema (2015-05-08 BZR 5647)-product")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source loconet_frontpanel.sch)
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref CO1)
+      (value rj12_panel_cutout)
+      (libsource (lib pyth) (part rj12_panel_cutout))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5552E03E))
+    (comp (ref CO2)
+      (value rj12_panel_cutout)
+      (libsource (lib pyth) (part rj12_panel_cutout))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5552E05D)))
+  (libparts
+    (libpart (lib pyth) (part rj12_panel_cutout)
+      (description "RJ12 Panel cutout")
+      (footprints
+        (fp RJ12)
+        (fp Cutout))
+      (fields
+        (field (name Reference) CO)
+        (field (name Value) rj12_panel_cutout))))
+  (libraries
+    (library (logical pyth)
+      (uri /Users/dirkjan/Projects/Own/Kicad_Library/pyth.lib)))
+  (nets))
