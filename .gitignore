@@ -1,0 +1,16 @@
+
+*.wrl
+
+*.kicad_pcb-bak
+
+*.lib
+
+*.bak
+
+*.stl
+
+*.scad
+
+fp-lib-table
+
+*.blend
