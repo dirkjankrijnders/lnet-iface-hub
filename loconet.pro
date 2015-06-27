@@ -1,4 +1,4 @@
-update=2015 May 12, Tuesday 07:39:40
+update=2015 June 27, Saturday 21:09:03
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../Kicad_Library
+LibDir=../pyth_kicad
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,4 +69,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/Users/dirkjan/Projects/Own/Kicad_Library/pyth
+LibName31=/Users/dirkjan/Projects/pyth_kicad/pyth
