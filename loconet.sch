@@ -980,18 +980,15 @@ F 3 "" H 8900 5300 30  0000 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	8600 5200 8600 5300
+	8600 5200 8600 5550
 Wire Wire Line
 	8600 5300 8750 5300
 Wire Wire Line
 	9050 5300 9100 5300
 Wire Wire Line
 	9100 5300 9100 4900
-Wire Wire Line
-	9000 4900 9300 4900
-Text GLabel 9300 4900 2    60   Input ~ 0
+Text GLabel 9200 5550 2    60   Input ~ 0
 Loconet
-Connection ~ 9100 4900
 $Comp
 L JUMPER JP1
 U 1 1 555C2BD5
@@ -1169,4 +1166,9 @@ Wire Wire Line
 Connection ~ 8200 5900
 Wire Wire Line
 	9150 6200 8900 6200
+Wire Wire Line
+	9100 4900 9000 4900
+Wire Wire Line
+	8600 5550 9200 5550
+Connection ~ 8600 5300
 $EndSCHEMATC
